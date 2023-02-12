@@ -1,5 +1,14 @@
-# Rubric
+# Little Lemon API Project
+This project showcases the development of back-end APIs for the Little Lemon restaurant as part of the Meta Backend Developer Certificate program. The APIs provide functionalities such as user management, menu management, order management, and customer interactions.
 
+# Features
+* User authentication (Admin, Manager, Delivery Crew, and Customer)
+* Menu browsing and management
+* Cart management
+* Order placement and management
+* Delivery management
+
+# Rubric
 ## Test if the admin can assign users to the manager group:
 Make a POST call to this endpoint http://127.0.0.1:8000/api/groups/manager/users with a valid admin token and a valid username in the HTTP REQUEST body. 
 ![Test_if_the_admin_can_assign_users_to_the_manager_group](Rubric_test_images/Test_if_the_admin_can_assign_users_to_the_manager_group.png)
