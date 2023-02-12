@@ -1,0 +1,32 @@
+superuser:
+    username: admin
+    password: admin
+
+customer1:
+    username: customer1
+    password: vazjuV-behmib-pofma9
+
+customer2:
+    username: customer2
+    password: ryhqix-piXhox-pofji0
+
+delivery crew 1:
+    username: delivery_crew1
+    password: joczax-7vipvy-hypHef
+
+delivery crew 2:
+    username: delivery_crew2
+    password: xyvjoh-buChe6-johxyb
+
+manager 1:
+    username: manager1
+    password: sybHon-5cyzgy-hihzid
+
+manager 2:
+    username: manager2
+    password: qewbap-bacdU6-zemzuf
+
+manager 3:
+    username: manager3
+    password: qiwfej-Hattoj-vicqy7
+
